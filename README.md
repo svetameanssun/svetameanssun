@@ -1,4 +1,5 @@
-![reversal](https://capsule-render.vercel.app/api?type=rect&text=UNDER_CONSTRUCTION&fontAlign=30&fontSize=30&desc=COME%20BACK%20SOON&descAlign=80&descAlignY=20&theme=dark)
+![reversal](https://capsule-render.vercel.app/api?type=waving&text=UNDER_CONSTRUCTION&fontAlign=30&fontSize=30&desc=COME%20BACK%20SOON&descAlign=80&descAlignY=20&theme=nightowl)
+
 <!--
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&text=Hello&&color=gradient&customColorList=0,2,2,5,30&fontAlign=30&fontAlignY=30&fontSize=30&desc=Everyone%20&descAlign=60&descAlignY=20&theme=dark" />
