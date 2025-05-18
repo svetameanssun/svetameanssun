@@ -10,7 +10,7 @@
   <a href="https://www.instagram.com/svetameanssun/" target="_blank" aria-label="Instagram">
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png" alt="Instagram icon" style="margin-left: -20px;"/>
   </a>
-  <a href="https://www.telegram.com/t.me/svetameanssun/" target="_blank" aria-label="Instagram">
+  <a href="t.me/svetameanssun/" target="_blank" aria-label="Instagram">
     <img height="50" src="https://cdn1.iconfinder.com/data/icons/unicons-line-vol-6/24/telegram-512.png" alt="Instagram icon" />
   </a>
 </div>
