@@ -1,25 +1,7 @@
-![reversal](https://capsule-render.vercel.app/api?type=waving&text=UNDER_CONSTRUCTION&fontAlign=30&fontSize=30&desc=COME%20BACK%20SOON&descAlign=80&descAlignY=20&theme=nightowl)
-
-<img src="https://capsule-render.vercel.app/api?section=footer&type=rect&color=gradient&customColorList=3" />
-
-<!--
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&text=Hello&&color=gradient&customColorList=0,2,2,5,30&fontAlign=30&fontAlignY=30&fontSize=30&desc=Everyone%20&descAlign=60&descAlignY=20&theme=dark" />
-</p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:3b3477,100:e53484&height=300&text=Hi%20there!%20🕊️&fontAlign=50&fontAlignY=40&fontSize=50&fontColor=faf6f6&desc=Check%20out%20my%20projects%20and%20learn%20more%20about%20me%20below&descAlign=50&descAlignY=53)
+<img src="https://capsule-render.vercel.app/api?section=footer&height=5&type=rect&color=100:848fe1,0:3b3477" />
 
 
 
 
-**svetameanssun/svetameanssun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
