@@ -42,7 +42,7 @@ fields_of_interests:
     "Test engineering"
   ]
 
-currently_learning: ["C++, Kotlin, and React Native"]
+currently_learning: ["C++, JavaScript, and React Native"]
 hobbies: ["Languages", "Art", "Acroyoga", "Dancing", "Comedy"]
 ```
 <h2 align="center"> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
