@@ -34,7 +34,7 @@ education:
 
 fields_of_interests:
   [
-    "App Development",
+    "Web Development",
     "Data Science",
     "Machine Learning",
     "NLP",
