@@ -29,7 +29,7 @@ education:
   [
     "Self-Taught Developer",
     "Master's in Philology",
-    "Bachelor's in Translation",
+    "Bachelor's in Translation"
   ]
 
 fields_of_interests:
