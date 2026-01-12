@@ -34,7 +34,8 @@ education:
 
 fields_of_interests:
   [
-    "Web Development",
+    "Cross-Platform Applications",
+    "Backend Development",
     "Data Science",
     "Machine Learning",
     "NLP",
@@ -42,7 +43,7 @@ fields_of_interests:
     "Test engineering"
   ]
 
-currently_learning: ["C++, JavaScript, and React Native"]
+currently_learning: ["C++, C#, .NET"]
 hobbies: ["Languages", "Art", "Acroyoga", "Dancing", "Comedy"]
 ```
 <h2 align="center"> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
