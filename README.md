@@ -43,7 +43,7 @@ fields_of_interests:
     "Test engineering"
   ]
 
-"currently_learning": ["TypeScript", "JavaScript", "Web Development", "PostgreSQL"]
+currently_learning: ["TypeScript", "JavaScript", "Web Development", "PostgreSQL"]
 hobbies: ["Languages", "Art", "Acroyoga", "Dancing", "Comedy"]
 ```
 <h2 align="center"> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
