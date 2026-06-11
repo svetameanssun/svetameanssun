@@ -38,12 +38,12 @@ fields_of_interests:
     "Backend Development",
     "Data Science",
     "Machine Learning",
-    "NLP",
+    "DevOps",
     "QA automation",
     "Test engineering"
   ]
 
-currently_learning: ["C++, C#, .NET"]
+"currently_learning": ["TypeScript", "JavaScript", "Web Development", "PostgreSQL"]
 hobbies: ["Languages", "Art", "Acroyoga", "Dancing", "Comedy"]
 ```
 <h2 align="center"> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
