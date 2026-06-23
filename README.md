@@ -1,6 +1,6 @@
 <!-- Header Image -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b3477,100:e53484&height=300&text=Hi%20there!%20🕊️&fontAlign=50&fontAlignY=40&fontSize=50&fontColor=faf6f6&desc=Check%20out%20my%20projects%20and%20learn%20more%20about%20me%20below&descAlign=50&descAlignY=53" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=100:ffd000,0:002fa7&height=300&text=Hi%20there!%20🕊️&fontAlign=50&fontAlignY=40&fontSize=50&fontColor=faf6f6&desc=Check%20out%20my%20projects%20and%20learn%20more%20about%20me%20below&descAlign=50&descAlignY=53" alt="Header" />
 </p>
 <!-- Centered Instagram Icon -->
 <div align="center">
@@ -17,7 +17,7 @@
 
 <!-- Footer Image -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=cylinder&height=20&color=0:7a75aa,100:f080b0" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&height=20&color=100:ffd00080,0:002fa780" alt="Footer" />
 </p>
 <h2 align="center"> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
@@ -64,7 +64,7 @@ hobbies: ["Languages", "Art", "Acroyoga", "Dancing", "Comedy"]
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=100:3b3477,0:e53484&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=100:ffd000,0:002fa7&height=100&section=footer"/>
 </p>
 
 <!--
