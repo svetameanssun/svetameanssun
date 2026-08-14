@@ -27,7 +27,6 @@
 
 education:
   [
-    "Self-Taught Developer",
     "Master's in Philology",
     "Bachelor's in Translation"
   ]
