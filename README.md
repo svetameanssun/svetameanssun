@@ -1,84 +1,44 @@
-<!-- Header Image -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=100:ffd000,0:002fa7&height=300&text=Hi%20there!%20🕊️&fontAlign=50&fontAlignY=40&fontSize=50&fontColor=faf6f6&desc=Check%20out%20my%20projects%20and%20learn%20more%20about%20me%20below&descAlign=50&descAlignY=53" alt="Header" />
-</p>
-<!-- Centered Instagram Icon -->
-<div align="center">
-  <a href="https://www.linkedin.com/in/svetameanssun/" target="_blank" aria-label="Instagram">
-    <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-512.png" alt="Instagram icon" />
-  </a>
-  <a href="https://www.instagram.com/svetameanssun/" target="_blank" aria-label="Instagram">
-    <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png" alt="Instagram icon" style="margin-left: -20px;"/>
-  </a>
-  <a href="https://t.me/svetameanssun/" target="_blank" aria-label="Instagram">
-    <img height="50" src="https://cdn1.iconfinder.com/data/icons/unicons-line-vol-6/24/telegram-512.png" alt="Instagram icon" />
-  </a>
-</div>
-
-<!-- Footer Image -->
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=cylinder&height=20&color=100:ffd00080,0:002fa780" alt="Footer" />
-</p>
-<h2 align="center"> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
-
-```yaml
-  name: Svetlana Titovskaia
-  located_in: Malaga, Spain
-
-education:
-  [
-    "Master's in Philology",
-    "Bachelor's in Translation"
-  ]
-
-fields_of_interests:
-  [
-    "Cross-Platform Applications",
-    "Backend Development",
-    "Data Science",
-    "Machine Learning",
-    "DevOps",
-    "QA automation",
-    "Test engineering"
-  ]
-
-currently_learning: ["TypeScript", "JavaScript", "Web Development", "PostgreSQL"]
-hobbies: ["Languages", "Art", "Acroyoga", "Dancing", "Comedy"]
-```
-<h2 align="center"> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-line.svg" alt="C#" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-line.svg" alt="C" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>       
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-
+  <img src="img.png"/>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=100:ffd000,0:002fa7&height=100&section=footer"/>
-</p>
+## About me 💡
 
-<!--
-what kind of colours in green in hex will combine with this palete: 3b3477, 848fe1, faf6f6, e53484, 1e1f4d?
+<p>I am Svetlana Titovskaia. Three years ago I decided to start my journey
+in the technological sector as a software engineer.</p>
+<p>For that, I am studying at 42 Malaga, where we develop technical skills making complete projects and need to work on our soft skills to survive. Bellow you can see a repository of those projects, where I try to organize them and make it more comprehensible to anyone looking. </p>
+<p>I have a varied and wide formation and experience in other matters that, in my humble opinion, can be recycled for programming and add extra perspectives and values to my capabilities.
+Do not hesitate if you are interested in contacting me! You can do it here, through my email or on LinkedIn </p>
 
-| Green Hex | Name                   | Notes                                                     |
-| --------- | ---------------------- | --------------------------------------------------------- |
-| `#4caf91` | **Dusty mint green**   | Balanced, fresh, and muted—pairs well with pink and navy. |
-| `#6abf69` | **Sagey green**        | Calming and natural, with enough contrast against indigo. |
-| `#3d9970` | **Jade green**         | Deep enough to match darker tones without overpowering.   |
-| `#99c2a2` | **Muted moss**         | Soft and neutral, ideal for backgrounds or accents.       |
-| `#a3e4c1` | **Mint pastel**        | Light and fresh, works beautifully with `#faf6f6`.        |
-| `#1d6f5f` | **Teal-forest hybrid** | Deep and elegant, complements `#1e1f4d` and `#3b3477`.    |
-| `#7dbfa3` | **Seafoam green**      | Cool, soft green that harmonizes with `#848fe1`.          |
 
--->
+
+## 42 Projects Shortcuts
+<a href="https://github.com/svetameanssun/common_core/tree/main/libft"><img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/libft_bonus_max.webp"> </a>
+<a href="https://github.com/svetameanssun/common_core/tree/main/ft_printf">
+<img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/ft_printf.webp"/></a>
+<a href="https://github.com/svetameanssun/common_core/tree/main/get_next_line">
+<img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/get_next_line_bonus_max.webp"/></a>
+<a href="https://github.com/svetameanssun/common_core/tree/main/so_long">
+<img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/so_long_bonus.webp"/></a>
+<a href="https://github.com/svetameanssun/common_core/tree/main/push_swap">
+<img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/push_swap.webp"/></a>
+<a href="https://github.com/svetameanssun/common_core/tree/main/pipex">
+<img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/pipex_bonus_max.webp"/></a>
+<a href="https://github.com/svetameanssun/common_core/tree/main/philosophers">
+<img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/philosophers.webp"/></a>
+<a href="https://github.com/svetameanssun/common_core/tree/main/cub3d">
+<img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/cub3d_bonus.webp"/></a>
+<a href="https://github.com/svetameanssun/cpp_modules">
+<img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/cpp.webp"/></a>
+<a href="https://github.com/svetameanssun/Inception">
+<img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/inception.webp"/></a>
+<a href="https://github.com/svetameanssun/ft_irc">
+<img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/ft_irc.webp"/></a>
+<a href="https://github.com/pacomariano28/Transcendence">
+<img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/ft_transcendence.webp"/></a>
+
+
+## 42 Profile
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/stitovsk?1337Badge=off&UM6P=off" alt="stitovsk-'s 42 stats"/></a>
 
 
