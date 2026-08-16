@@ -6,9 +6,9 @@
 
 <p>I am Svetlana Titovskaia. Three years ago I decided to start my journey
 in the technological sector as a software engineer.</p>
-<p>For that, I am studying at 42 Malaga, where we develop technical skills making complete projects and need to work on our soft skills to survive. Bellow you can see a repository of those projects, where I try to organize them and make it more comprehensible to anyone looking. </p>
-<p>I have a varied and wide formation and experience in other matters that, in my humble opinion, can be recycled for programming and add extra perspectives and values to my capabilities.
-Do not hesitate if you are interested in contacting me! You can do it here, through my email or on LinkedIn </p>
+<p>To do so, I am studying at <a href="https://www.42malaga.com/">42 Málaga Fundación Telefónica</a>, where we develop technical skills by completing full projects and refining our soft skills. Below you can see a repository of those projects, where I try to organize them and make it more accessible and clear to anyone looking. </p>
+<p>I have a varied and wide background in other fields that, in my humble opinion, translates well to programming and adds valuable perspectives to my capabilities.
+Feel free to contact me! You can do it here, through my <a href="mailto:your.svetlanatitovskaia@gmail.com">email</a> or on <a href="https://www.linkedin.com/in/svetameanssun/">LinkedIn</a> </p>
 
 
 
