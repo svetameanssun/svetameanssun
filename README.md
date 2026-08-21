@@ -34,7 +34,7 @@ Feel free to contact me! You can do it here, through my <a href="mailto:svetlana
 <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/inception.webp"/></a>
 <a href="https://github.com/svetameanssun/ft_irc">
 <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/ft_irc.webp"/></a>
-<a href="https://github.com/pacomariano28/Transcendence">
+<a href="https://github.com/svetameanssun/Transcendence">
 <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/ft_transcendence.webp"/></a>
 
 
