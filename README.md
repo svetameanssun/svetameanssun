@@ -39,6 +39,7 @@ Feel free to contact me! You can do it here, through my <a href="mailto:svetlana
 
 
 ## 42 Profile
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/stitovsk?1337Badge=off&UM6P=off" alt="stitovsk-'s 42 stats"/></a>
+[![<stitovsk>'s 42 stats](https://badge.mediaplus.ma/greenbinary/<stitovsk>)](https://github.com/oakoudad/badge42)
+//<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/stitovsk?1337Badge=off&UM6P=off" alt="stitovsk-'s 42 stats"/></a>
 
 
